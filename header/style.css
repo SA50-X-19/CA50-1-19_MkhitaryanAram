@@ -4,6 +4,7 @@
     list-style-type: none;
     box-sizing: border-box;
     text-decoration: none;
+
 }
 
 
@@ -27,6 +28,7 @@
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
 .menu__links {
     color: rgba(235, 235, 235, 1);
 }
